@@ -1,0 +1,21 @@
+
+* {
+	box-sizing: border-box;
+}
+
+.header-content {
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	background: #ffffff;
+}
+.connect-section {
+	float: right;
+}
+
+.name {
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	font-size: 32px;
+	color: white;
+	background: #4aaaa5;
+	float: left;
+}
+
